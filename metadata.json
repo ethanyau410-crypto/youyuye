@@ -1,0 +1,5 @@
+{
+  "name": "ModelViewGen",
+  "description": "Transform character images into standard orthographic front views for 3D modeling references using Gemini.",
+  "requestFramePermissions": []
+}
